@@ -3,7 +3,10 @@ category: animals
 title: Fill Murrays
 description: Yet another placeholding project, but with Bills
 cover: https://www.fillmurray.com/g/400/200
-gallery: ['https://www.fillmurray.com/g/800/400', 'https://www.fillmurray.com/600/600']
+gallery:
+  - https://www.fillmurray.com/g/800/400
+  - https://www.fillmurray.com/600/600
+  - /img/ntn-boilerplate-preview-light.png
 ---
 
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
